@@ -46,12 +46,3 @@ multi_agent_api/
 | Variable | Description |
 |---|---|
 | `GROQ_API_KEY` | API key for accessing the Groq API |
-
-## Notes
-
-- Never commit your `.env` file — it's excluded via `.gitignore`.
-- Rotate your API key immediately if it's ever exposed in code or version control.
-
-## License
-
-Add your license here.
